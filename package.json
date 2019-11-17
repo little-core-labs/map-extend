@@ -1,6 +1,6 @@
 {
   "name": "map-extend",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Extend a Map instance with one or more others.",
   "main": "index.js",
   "scripts": {
